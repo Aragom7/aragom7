@@ -1,5 +1,5 @@
 ## 🦖 About Me
-I'm Nicolás Gómez — currently working as a **Salesforce Senior Analyst** at **Amrize**. I'm actively building the foundation to transition into a **Salesforce Integration Developer**, combining cloud technologies, automation, and data engineering.
+I'm Nicolás Gómez — currently working as a **Salesforce Senior Analyst** at **Amrize** (biggest construction company in the US) I'm actively building the foundation to transition into a **Salesforce Developer**, combining cloud technologies, automation, and data engineering.
 
 ## 👨‍💻 Professional Focus
 I'm focused on developing real-world skills in:
