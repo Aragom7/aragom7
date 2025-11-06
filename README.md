@@ -1,20 +1,13 @@
 ## 🦖 About Me
-I'm Nicolás Gómez — currently working as a **Salesforce Senior Analyst** at **Amrize** (biggest construction company in the US) I'm actively building the foundation to transition into a **Salesforce Developer**, combining cloud technologies, automation, and data engineering.
+I'm Nicolás Gómez — currently working as a **Salesforce Senior Analyst** at **Amrize** (one of the biggest construction companies in the US). I'm preparig myselfto transition into a **Salesforce Developer** role, by getting certified in Salesforce and learning both Computer Science and Mathematics concepts.
 
 ## 👨‍💻 Professional Focus
 I'm focused on developing real-world skills in:
 
-- Salesforce adminsitration skills to handle company's resources effectively and efficiently.
-- Salesforce development with Apex and Flow, including external integrations.
-- Data pipelines using API's that connect Salesforce with external platforms and services.
+- Admistration skills to handle company's resources effectively and efficiently.
+- Automation using flows and more triggers to optimize processes. 
+- Salesforce development with Apex, including external integrations.
 
-My goal is to design and implement integration pipelines that bridge Salesforce with cloud ecosystems (AWS, Azure, GCP), while documenting everything with clean code, diagrams, and tutorials.
-
-## 🧠 Learning Goals
-Build secure and scalable Salesforce solutions in enterprise environments.
-Master software architecture patterns for automation and data workflows.
-Deepen my knowledge of AWS core services for integration and backend development using Python and Go.
-Contribute to open source projects like PySpark (Python) or Kubernetes (Go) to strengthen my backend and infrastructure skills.
 
 ## 📌 Let’s Connect
 You can reach me out via LinkedIn, email nicolasgomezaragon@proton.me +573028568823.
