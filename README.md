@@ -1,8 +1,6 @@
 ##  About Me 🦖
 
-Salesforce admin with experience in **CPQ, automation, and system integrations** in enterprise environments. Focused on solving complex business problems through scalable solutions, with hands-on experience in **Flows, Apex, and API integrations (MuleSoft/SAP)**.
-
-Currently building practical projects to expand into **Salesforce Development (Apex + LWC) together with backend technologies**.
+Backend-focused engineer with a Salesforce core. I build CPQ solutions, design API-driven integrations (MuleSoft, SAP, AWS), and develop with Apex, LWC, and REST. Currently exploring scalable backend systems and LLM-powered automation (OpenAI, Claude).
 
 ---
 
