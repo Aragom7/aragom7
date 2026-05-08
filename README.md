@@ -13,14 +13,6 @@ Backend-focused engineer with a Salesforce core. I build CPQ solutions, design A
 
 ---
 
-## Featured Projects 🚀
-
-### 🔹 Quote2Revenue (QTR) Engine
-A small, native Salesforce prototype to improve CPQ discount approvals for small and mid‑size businesses.
-
-### 🔹 AI Pricing Engine for HubSpot + Odoo
-A lightweight, API‑first pricing engine that brings ML‑powered discount recommendations to HubSpot CRM using real cost data from Odoo ERP.
-
 ##  Let’s Connect 📌
 You can reach me out via LinkedIn or email nicolasgomezaragon@proton.me
 
