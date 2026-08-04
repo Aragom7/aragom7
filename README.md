@@ -1,15 +1,16 @@
 ##  About Me 🦖
 
-Backend-focused engineer with a Salesforce core. I build CPQ solutions, design API-driven integrations (MuleSoft, SAP, AWS), and develop with Apex, LWC, and REST APIs. Currently exploring scalable backend systems and LLM-powered automation (OpenAI, Claude).
+I maintain Salesforce Revenue Cloud solutions, design API-driven integrations (MuleSoft, SAP, AWS), and develop with Apex, LWC, and REST APIs. Currently exploring scalable backend systems and LLM-powered automation (OpenAI, Claude).
 
 ---
 
 ## What I Work With 🔧
-- Salesforce CPQ (pricing, bundles, quoting)
-- Process Automation (Flows, Lead-to-Cash)
-- Integrations (REST APIs, MuleSoft, SAP)
-- Apex (triggers, services, testing)
-- LWC (UI + Apex interaction)
+- Salesforce Revenue, Sales, Service, Data Cloud
+- Salesforce Development and Administration
+- Integrations (APIs, MuleSoft)
+- SAP SD
+
+I also learn about AWS, right now preparing for the Certified AI Practitioner (AIF-C01), together with Salesforce Certified Revenue Cloud Consultant certification.
 
 ---
 
